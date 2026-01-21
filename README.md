@@ -14,4 +14,5 @@ So what this script does, is it visits the collection id povided by the user, th
 
 ```
 python main.py --modlist [file_path] --collection id
+python main.py --collection 123456789
 ```
